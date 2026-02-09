@@ -12,8 +12,8 @@ body {
 
 @font-face {
     font-family: 'Barriecito';
-    src: url('/fonts/Barriecito-Regular.woff2') format('woff2'),
-        url('/fonts/Barriecito-Regular.woff') format('woff');
+    src: url('./fonts/Barriecito-Regular.woff2') format('woff2'),
+        url('./fonts/Barriecito-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -109,6 +109,7 @@ input {
     height: 25px;
     margin-right: 50px;
     border-color: rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
     outline: none;
     padding-left: 4px;
 }
