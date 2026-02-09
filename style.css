@@ -10,8 +10,6 @@ body {
     font-style: normal;
 }
 
-
-
 @font-face {
     font-family: 'Barriecito';
     src: url('/fonts/Barriecito-Regular.woff2') format('woff2'),
@@ -37,7 +35,6 @@ body {
     gap: 6px;
     height: 120px;
     padding-left: 100px;
-
 }
 
 .aiwa-pic-and-text p {
@@ -77,13 +74,11 @@ body {
     height: 900px;
 }
 
-
 .info-container p {
     padding: 130px 50px 80px 50px;
     font-size: 32px;
     justify-content: end;
     text-align: end;
-
 }
 
 .background {
@@ -135,9 +130,7 @@ input:invalid:focus {
     gap: 1rem;
     width: 600px;
     padding: 10px 0px 10px 50px;
-
 }
-
 
 .confirm-button {
     background-color: white;
@@ -152,14 +145,11 @@ button {
     color: rgb(28, 3, 3, 0.7);
     font-size: 20px;
     border-color: rgb(28, 3, 3, 0.3);
-    ;
-
 }
 
 .log-in {
     padding: 20px 0 0 50px;
     background-color: white;
-
 }
 
 .log-in a {
@@ -168,11 +158,3 @@ button {
 }
 
 
-
-/* 
-<div> Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik"> Freepik </a> from <a
-        href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
-Photo by <a
-    href="https://unsplash.com/@nuarharuha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NHN</a>
-on <a
-    href="https://unsplash.com/photos/young-child-plays-with-alphabet-puzzle-on-floor-RfmMTvS9PF4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> */

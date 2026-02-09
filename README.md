@@ -1,2 +1,6 @@
 # sign-up-form-project
-Sign-up Form project from TOP Full stack curriculum. 
+
+Sign-up Form project from TOP Full stack curriculum.
+
+Icon taken from - <div> Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik"> Freepik </a> from <a href="https://www.flaticon.com/" title="Flaticon">
+www.flaticon.com'</a></div>
