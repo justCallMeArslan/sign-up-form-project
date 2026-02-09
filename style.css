@@ -12,10 +12,11 @@ body {
 
 @font-face {
     font-family: 'Barriecito';
-    src: url('./fonts/Barriecito-Regular.woff2') format('woff2'),
-        url('./fonts/Barriecito-Regular.woff') format('woff');
+    src: url('../fonts/Barriecito-Regular.woff2') format('woff2'),
+        url('../fonts/Barriecito-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 .child-photo {
