@@ -87,7 +87,6 @@ body {
 
 .background p {
     position: absolute;
-
 }
 
 .form-background {
@@ -114,11 +113,9 @@ input {
     padding-left: 4px;
 }
 
-
 input:valid:focus {
     border-color: rgba(5, 232, 5, 0.387);
 }
-
 
 input:invalid:focus {
     border-color: rgba(229, 10, 10, 0.324);
